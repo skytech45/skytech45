@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>Advanced Android development & system-level customization<br>Cybersecurity research and mobile security analysis<br>Building AI-powered automation tools<br>👯 I’m looking to collaborate on<br>Open-source security tools<br>AI-based applications<br>Innovative Android or embedded system projects<br>🤝 I’m looking for help with<br>Advanced kernel and ROM development<br>Scalable backend architecture<br>Security research methodologies<br>🌱 I’m currently learning<br>Trusted Execution Environment (TEE) concepts<br>Advanced embedded systems & microcontrollers<br>AI integration with automation workflows<br>💬 Ask me about<br>Android customization & performance optimization<br>Cybersecurity fundamentals<br>Embedded systems and electronics<br>⚡ Fun fact<br>I am an Electronics Engineer 🙂<br>I enjoy breaking down complex technical systems and rebuilding them from scratch to understand how they truly work.
-
+I’m currently working on<br>Devops engineering d & system-level customization<br>Cybersecurity research and mobile security analysis<br>Building AI-powered automation tools<br>👯 I’m looking to collaborate on<br>Open-source security tools<br>AI-based applications<br>Innovative Android or embedded system projects<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Sky_26018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sachin26018@gmail.com) 
